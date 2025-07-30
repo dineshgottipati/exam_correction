@@ -1,0 +1,3 @@
+The Internet of Things connects devices like sensors and machines to the internet.
+It helps in building smart homes, improving health monitoring, and making farms smarter.
+IoT makes it easier to collect data in real-time and improves the overall performance of systems.

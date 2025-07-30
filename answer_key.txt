@@ -1,0 +1,3 @@
+IoT stands for Internet of Things, where physical devices are connected to the internet for smart operations.
+It is widely used in smart homes, healthcare monitoring, agriculture, and industrial automation.
+IoT allows real-time data collection, improves efficiency, and enables predictive maintenance in many sectors.
